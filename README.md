@@ -209,7 +209,7 @@
             <label for="fb">Comment</label>
             <textarea name="feedback" id="fb" cols="20" rows="10"></textarea>
         </div>
-        <button type="submit" class="btn btn-primary">submit</button>
+        <button type="submit" class="btn btn-primary">Submit</button>
     </div>
 </section>
 <section>
