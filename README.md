@@ -94,3 +94,72 @@
 <script src="js/bootstrap.js"></script>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gallery</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <nav class="navbar navbar-expand-sm bg-dark fixed-top">
+        <img src="images/53d9d679-7944-4ebc-8b25-72977d81e918.jpg" width="50dp" height="50dp">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link text-light" href="indent.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="images.html">Images</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="contact.html">contact us</a>
+            </li>
+        </ul>
+        <form class="form-inline ml-auto" action="/action_page.php">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search">
+            <button class="btn btn-success" type="submit">Search</button>
+        </form>
+    </nav>
+</head>
+<body>
+<section>
+    <div class="container-fluid bg-secondary">
+        <h2 class="text-light ml-3 m-2 align-content-center">Display</h2>
+        <div class="row m-4">
+            <div class="col-md-4 col-sm-10 col-5">
+                <img src="images/images%20(9).jpeg" class="img-thumbnail">
+                <p>Nike <br>Classic, puristic, and yet exciting. Perfect style combined with contemporary minimalism. Inspired by Danish design, the CLASSIC COLLECTION represents a unique timepiece, perfectly highlighting your daily style. The polished silver-toned IP plated stainless steel case, made of pure, high quality, medical-grade stainless steel (316L), in combination with the grey-toned IP plated modern Milanese mesh strap, provides the classic BERING look.  <br>$2700</p>
+                <a href="#" type="button" class="btn btn-outline-dark">Buy</a>
+            </div>
+            <div class="col-md-4 col-sm-10 col-5">
+                <img src="images/images%20(8).jpeg" class="img-thumbnail">
+                <p>Seiko <br><br>Classic, puristic, and yet exciting. Perfect style combined with contemporary minimalism. Inspired by Danish design, the CLASSIC COLLECTION represents a unique timepiece, perfectly highlighting your daily style. The polished silver-toned IP plated stainless steel case, made of pure, high quality, medical-grade stainless steel (316L), in combination with the grey-toned IP plated modern Milanese mesh strap, provides the classic BERING look.$2000</p>
+                <a href="#" type="button" class="btn btn-outline-dark">Buy</a>
+            </div>
+            <div class="col-md-4 col-sm-10 col-5">
+                <img src="images/images%20(10).jpeg" class="img-thumbnail">
+                <p>Rolex <br><br>Classic, puristic, and yet exciting. Perfect style combined with contemporary minimalism. Inspired by Danish design, the CLASSIC COLLECTION represents a unique timepiece, perfectly highlighting your daily style. The polished silver-toned IP plated stainless steel case, made of pure, high quality, medical-grade stainless steel (316L), in combination with the grey-toned IP plated modern Milanese mesh strap, provides the classic BERING look.$3000</p>
+                <a href="#" type="button" class="btn btn-outline-dark">Buy</a>
+            </div>
+        </div>
+        <div class="row m-4" id="International">
+            <div class="col-md-4 col-sm-10 col-5">
+                <img src="images/images%20(13).jpeg" class="img-thumbnail">
+                <p>Tagheur <br><br>Classic, puristic, and yet exciting. Perfect style combined with contemporary minimalism. Inspired by Danish design, the CLASSIC COLLECTION represents a unique timepiece, perfectly highlighting your daily style. The polished silver-toned IP plated stainless steel case, made of pure, high quality, medical-grade stainless steel (316L), in combination with the grey-toned IP plated modern Milanese mesh strap, provides the classic BERING look.$2200</p>
+                <a href="#" type="button" class="btn btn-outline-dark">Buy</a>
+            </div>
+            <div class="col-md-4 col-sm-10 col-5">
+                <img src="images/images%20(11).jpeg" class="img-thumbnail">
+                <p>Gucci <br><br>Classic, puristic, and yet exciting. Perfect style combined with contemporary minimalism. Inspired by Danish design, the CLASSIC COLLECTION represents a unique timepiece, perfectly highlighting your daily style. The polished silver-toned IP plated stainless steel case, made of pure, high quality, medical-grade stainless steel (316L), in combination with the grey-toned IP plated modern Milanese mesh strap, provides the classic BERING look.$2000</p>
+                <a href="#" type="button" class="btn btn-outline-dark">Buy</a>
+            </div>
+            <div class="col-md-4 col-sm-10 col-5">
+                <img src="images/Rolex-Submariner-min-min.jpg" class="img-thumbnail">
+                <p>Omega <br><br>Classic, puristic, and yet exciting. Perfect style combined with contemporary minimalism. Inspired by Danish design, the CLASSIC COLLECTION represents a unique timepiece, perfectly highlighting your daily style. The polished silver-toned IP plated stainless steel case, made of pure, high quality, medical-grade stainless steel (316L), in combination with the grey-toned IP plated modern Milanese mesh strap, provides the classic BERING look.$2250</p>
+                <a href="#" type="button" class="btn btn-outline-dark">Buy</a>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
