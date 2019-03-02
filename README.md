@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,7 +34,7 @@
 <body>
 <hr>
 <header class="m-3 mt-3">
-    <h2></h2>
+    <h2>PRIME TIME</h2>
 </header>
 <section>
     <div class="container-fluid m-4 mt-4" id="Home">
